@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kento/dev/learning/ciccc/c/FinalProject/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/kento/dev/learning/ciccc/c/FinalProject/printer.c
+stdio.h
+-
+
