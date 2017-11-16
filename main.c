@@ -54,7 +54,6 @@ struct Student *getListOfStudentFromFile(char *fileAddress, char *fileName, int 
 
 
 int main(int argc, const char *argv[]) {
-    sayHello();
     //***************************************************************
     //***************************************************************
     //Read the Students.txt file and create an array of Students
