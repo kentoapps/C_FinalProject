@@ -6,7 +6,7 @@
 3mark:"60"
 1studentID:"7813007"
 2courseID:"MADP402"
-3mark:"62
+3mark:"62"
 1studentID:"7813007"
 2courseID:"MADP401"
-3mark:"60
+3mark:"60"
