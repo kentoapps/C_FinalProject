@@ -13,8 +13,6 @@ stdlib.h
 -
 string.h
 -
-
-/Users/kento/dev/learning/ciccc/c/FinalProject/printer.c
-stdio.h
+unistd.h
 -
 

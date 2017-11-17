@@ -150,33 +150,6 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/FinalProject.dir/build.make CMakeFiles/FinalProject.dir/main.c.s
 .PHONY : main.c.s
 
-printer.o: printer.c.o
-
-.PHONY : printer.o
-
-# target to build an object file
-printer.c.o:
-	$(MAKE) -f CMakeFiles/FinalProject.dir/build.make CMakeFiles/FinalProject.dir/printer.c.o
-.PHONY : printer.c.o
-
-printer.i: printer.c.i
-
-.PHONY : printer.i
-
-# target to preprocess a source file
-printer.c.i:
-	$(MAKE) -f CMakeFiles/FinalProject.dir/build.make CMakeFiles/FinalProject.dir/printer.c.i
-.PHONY : printer.c.i
-
-printer.s: printer.c.s
-
-.PHONY : printer.s
-
-# target to generate assembly for a file
-printer.c.s:
-	$(MAKE) -f CMakeFiles/FinalProject.dir/build.make CMakeFiles/FinalProject.dir/printer.c.s
-.PHONY : printer.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +162,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... printer.o"
-	@echo "... printer.i"
-	@echo "... printer.s"
 .PHONY : help
 
 

@@ -3,5 +3,3 @@
 
 CMakeFiles/FinalProject.dir/main.c.o: ../main.c
 
-CMakeFiles/FinalProject.dir/printer.c.o: ../printer.c
-

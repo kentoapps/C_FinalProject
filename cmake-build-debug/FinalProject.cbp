@@ -85,9 +85,6 @@
 		<Unit filename="/Users/kento/dev/learning/ciccc/c/FinalProject/main.c">
 			<Option target="FinalProject"/>
 		</Unit>
-		<Unit filename="/Users/kento/dev/learning/ciccc/c/FinalProject/printer.c">
-			<Option target="FinalProject"/>
-		</Unit>
 		<Unit filename="/Users/kento/dev/learning/ciccc/c/FinalProject/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

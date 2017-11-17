@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FinalProject.dir/main.c.o"
-  "CMakeFiles/FinalProject.dir/printer.c.o"
   "FinalProject.pdb"
   "FinalProject"
 )
